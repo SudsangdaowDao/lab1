@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:show id="ps_com_spt_workshop_domain_EmpType" object="${emptype}" path="/emptypes" z="qO9VZJ36Ccl73km8hw/Z1l26D88=">
+        <field:display field="empTypeName" id="s_com_spt_workshop_domain_EmpType_empTypeName" object="${emptype}" z="Hh5LIlnBms/qqesQM2/Wk40HZtc="/>
+        <field:display field="empTypeCode" id="s_com_spt_workshop_domain_EmpType_empTypeCode" object="${emptype}" z="gaJeE0XFIF1sKMFHwtwP603/oo8="/>
+    </page:show>
+</div>

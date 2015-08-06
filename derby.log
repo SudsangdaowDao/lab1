@@ -1,0 +1,17 @@
+----------------------------------------------------------------
+Thu Aug 06 16:03:48 ICT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-014f-0240-8c17-0000088a6378 
+on database directory /home/sudsangdaow/Spring/workshop  with class loader WebappClassLoader
+  context: /workshop
+  delegate: false
+  repositories:
+    /WEB-INF/classes/
+----------> Parent Classloader:
+ClassRealm[plugin>org.codehaus.mojo:tomcat-maven-plugin:1.1, parent: sun.misc.Launcher$AppClassLoader@1c8825a5]
+ 
+Loaded from file:/home/sudsangdaow/.m2/repository/org/apache/derby/derby/10.8.2.2/derby-10.8.2.2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_71-b14
+user.dir=/home/sudsangdaow/Spring
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
